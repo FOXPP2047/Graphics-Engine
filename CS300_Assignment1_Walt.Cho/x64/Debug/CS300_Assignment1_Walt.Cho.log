@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(72,27): warning C4244:  'initializing': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(72,27): warning C4244:         with
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(72,27): warning C4244:         [
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(72,27): warning C4244:             T=float
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(72,27): warning C4244:         ]
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(97,70): warning C4244:  'argument': conversion from 'T' to 'GLsizei', possible loss of data
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(97,70): warning C4244:         with
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(97,70): warning C4244:         [
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(97,70): warning C4244:             T=float
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(97,70): warning C4244:         ]
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(97,55): warning C4244:  'argument': conversion from 'T' to 'GLsizei', possible loss of data
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(97,55): warning C4244:         with
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(97,55): warning C4244:         [
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(97,55): warning C4244:             T=float
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\PPMLoader.h(97,55): warning C4244:         ]
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\main.cpp(161,50): warning C4267:  'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\CS300_Assignment1_Walt.Cho\main.cpp(531,27): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CS300_Assignment1_Walt.Cho.vcxproj -> C:\Users\Administrator\Desktop\DigiPen\F19\CS300\CS300_Assignment3_Walt.Cho\x64\Debug\CS300_Assignment1_Walt.Cho.exe
